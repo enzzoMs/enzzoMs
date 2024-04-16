@@ -1,16 +1,15 @@
-### Hi there 👋
+<p align="center">
+  <img alt="Programming banner" src="programming-banner.svg" width="845px" height="220px">
+</p>
 
-<!--
-**enzzoMs/enzzoMs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>👋 Hello!</h1>
 
-Here are some ideas to get you started:
+<img alt="Rock Fact" src="rock-fact.png" width="85px" height="97px" align="right">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer science student at Universidade de Brasília (UnB). I love to learn about new tech and new stuff. I code mostly web and desktop applications.
+
+💼 Intern at the "Tribunal de Contas da União (TCU)".
+
+<h1>🌻 Tech Stack</h1>
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,kotlin,js,html,css,react,cs)](https://skillicons.dev)
